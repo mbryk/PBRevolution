@@ -1,0 +1,33 @@
+Pete's Beats Revolutionized, 12-20-2011
+
+Step 1:
+To Run Pete's Beats, wire up the arduino as follows:
+
+Pin 2:	Yellow Wire from pad
+Pin 3:	White Wire from pad
+Pin 4:	Purple Wire from pad
+Pin 5:	Dark Green Wire from pad
+Pin 6:	Grey Wire from pad
+Pin 7:	Light Green Wire from pad
+Pin 8:	Light Brown Wire from pad
+Pin 9:	Dark Brown Wire from pad
+
+Pin 12: Speaker input
+5V Pin: Red Wire from pad
+Ground Pin: Speaker Ground, Black Wire from pad
+
+
+Step 2:
+Upload the ArduinoReader.pde file to the Arduino.
+
+step 3:
+Run the emptyExample.exe file in the bin folder to start the game
+
+Step 4:
+If you want updates for the game, email David at tan4@cooper.edu and there might be a newer version available
+
+Step 5:
+If you want to upload your own background music, go into bin/data/Backgrnd_Music and upload any .mp3 files into that folder.
+
+Step 6:
+Monster upload feature, roadupload feature, and multiplayer are currently unavailable.
